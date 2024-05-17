@@ -1,0 +1,62 @@
+D:\Route\C#\Talabat Soulation\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+D:\Route\C#\Talabat Soulation\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+D:\Route\C#\Talabat Soulation\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+D:\Route\C#\Talabat Soulation\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\C#\Talabat Soulation\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+D:\Route\C#\Talabat Soulation\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+D:\Route\C#\Talabat Soulation\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+D:\Route\C#\Talabat Soulation\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+D:\Route\C#\Talabat Soulation\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+D:\Route\C#\Talabat Soulation\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+D:\Route\C#\Talabat Soulation\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+D:\Route\API\Talabat Soulation\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+D:\Route\API\Talabat Soulation\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+D:\Route\API\Talabat Soulation\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+D:\Route\API\Talabat Soulation\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\API\Talabat Soulation\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+D:\Route\API\Talabat Soulation\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+D:\Route\API\Talabat Soulation\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+D:\Route\API\Talabat Soulation\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+D:\Route\API\Talabat Soulation\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+D:\Route\API\Talabat Soulation\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+D:\Route\API\Talabat Soulation\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+D:\Route\API\Talabat Soulation\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+D:\Route\API\Talabat Soulation\Talabat.Service\bin\Debug\net6.0\Talabat.Repository.dll
+D:\Route\API\Talabat Soulation\Talabat.Service\bin\Debug\net6.0\Talabat.Repository.pdb
+D:\Route\API\Talabat Soulation\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+D:\Route\API\Talabat Soulation\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+D:\Route\API\Talabat Soulation\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CopyComplete
+C:\Users\ht\Desktop\Talabat Soulation\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+C:\Users\ht\Desktop\Talabat Soulation\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+C:\Users\ht\Desktop\Talabat Soulation\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+C:\Users\ht\Desktop\Talabat Soulation\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\ht\Desktop\Talabat Soulation\Talabat.Service\bin\Debug\net6.0\Talabat.Repository.dll
+C:\Users\ht\Desktop\Talabat Soulation\Talabat.Service\bin\Debug\net6.0\Talabat.Repository.pdb
+C:\Users\ht\Desktop\Talabat Soulation\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\ht\Desktop\Talabat Soulation\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+C:\Users\ht\Desktop\Talabat Soulation\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ht\Desktop\Talabat Soulation\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+C:\Users\ht\Desktop\Talabat Soulation\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+C:\Users\ht\Desktop\Talabat Soulation\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+C:\Users\ht\Desktop\Talabat Soulation\Talabat.Service\obj\Debug\net6.0\Talabat..89B18B2E.Up2Date
+C:\Users\ht\Desktop\Talabat Soulation\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+C:\Users\ht\Desktop\Talabat Soulation\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+C:\Users\ht\Desktop\Talabat Soulation\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+C:\Users\ht\Desktop\Talabat Soulation\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+C:\Users\ht\Desktop\Talabat Soulation Youmna\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+C:\Users\ht\Desktop\Talabat Soulation Youmna\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+C:\Users\ht\Desktop\Talabat Soulation Youmna\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+C:\Users\ht\Desktop\Talabat Soulation Youmna\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\ht\Desktop\Talabat Soulation Youmna\Talabat.Service\bin\Debug\net6.0\Talabat.Repository.dll
+C:\Users\ht\Desktop\Talabat Soulation Youmna\Talabat.Service\bin\Debug\net6.0\Talabat.Repository.pdb
+C:\Users\ht\Desktop\Talabat Soulation Youmna\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\ht\Desktop\Talabat Soulation Youmna\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+C:\Users\ht\Desktop\Talabat Soulation Youmna\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ht\Desktop\Talabat Soulation Youmna\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+C:\Users\ht\Desktop\Talabat Soulation Youmna\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+C:\Users\ht\Desktop\Talabat Soulation Youmna\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+C:\Users\ht\Desktop\Talabat Soulation Youmna\Talabat.Service\obj\Debug\net6.0\Talabat..89B18B2E.Up2Date
+C:\Users\ht\Desktop\Talabat Soulation Youmna\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+C:\Users\ht\Desktop\Talabat Soulation Youmna\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+C:\Users\ht\Desktop\Talabat Soulation Youmna\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+C:\Users\ht\Desktop\Talabat Soulation Youmna\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll

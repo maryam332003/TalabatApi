@@ -1,0 +1,47 @@
+D:\Route\C#\Talabat Soulation\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+D:\Route\C#\Talabat Soulation\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+D:\Route\C#\Talabat Soulation\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+D:\Route\C#\Talabat Soulation\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\C#\Talabat Soulation\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+D:\Route\C#\Talabat Soulation\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+D:\Route\C#\Talabat Soulation\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+D:\Route\C#\Talabat Soulation\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+D:\Route\C#\Talabat Soulation\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+D:\Route\C#\Talabat Soulation\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+D:\Route\C#\Talabat Soulation\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll
+D:\Route\API\Talabat Soulation\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+D:\Route\API\Talabat Soulation\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+D:\Route\API\Talabat Soulation\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+D:\Route\API\Talabat Soulation\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\API\Talabat Soulation\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+D:\Route\API\Talabat Soulation\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+D:\Route\API\Talabat Soulation\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+D:\Route\API\Talabat Soulation\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+D:\Route\API\Talabat Soulation\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+D:\Route\API\Talabat Soulation\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+D:\Route\API\Talabat Soulation\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll
+D:\Route\API\Talabat Soulation\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.AssemblyReference.cache
+C:\Users\ht\Desktop\Talabat Soulation\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+C:\Users\ht\Desktop\Talabat Soulation\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\ht\Desktop\Talabat Soulation\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\ht\Desktop\Talabat Soulation\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.AssemblyReference.cache
+C:\Users\ht\Desktop\Talabat Soulation\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ht\Desktop\Talabat Soulation\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+C:\Users\ht\Desktop\Talabat Soulation\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+C:\Users\ht\Desktop\Talabat Soulation\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+C:\Users\ht\Desktop\Talabat Soulation\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+C:\Users\ht\Desktop\Talabat Soulation\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+C:\Users\ht\Desktop\Talabat Soulation\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+C:\Users\ht\Desktop\Talabat Soulation\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll
+C:\Users\ht\Desktop\Talabat Soulation Youmna\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+C:\Users\ht\Desktop\Talabat Soulation Youmna\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\ht\Desktop\Talabat Soulation Youmna\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\ht\Desktop\Talabat Soulation Youmna\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.AssemblyReference.cache
+C:\Users\ht\Desktop\Talabat Soulation Youmna\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ht\Desktop\Talabat Soulation Youmna\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+C:\Users\ht\Desktop\Talabat Soulation Youmna\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+C:\Users\ht\Desktop\Talabat Soulation Youmna\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+C:\Users\ht\Desktop\Talabat Soulation Youmna\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+C:\Users\ht\Desktop\Talabat Soulation Youmna\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+C:\Users\ht\Desktop\Talabat Soulation Youmna\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+C:\Users\ht\Desktop\Talabat Soulation Youmna\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll
